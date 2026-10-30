@@ -1,0 +1,5 @@
+apps/*
+ci/*
+doc_src/*
+sandbox/*
+pywinauto/unittests/*
